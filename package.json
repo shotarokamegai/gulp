@@ -1,0 +1,21 @@
+{
+  "name": "shotaro",
+  "version": "1.0.0",
+  "description": "practice for gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://shotarokamegai@bitbucket.org/shotarokamegai/fujiyama.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.5",
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sass": "^1.3.3"
+  }
+}
